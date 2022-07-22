@@ -1,8 +1,8 @@
 .numeros-grid {
-  grid-column: 2/4;
-  grid-gap: 30px;
+  grid-column: 2 / 4;
   display: grid;
   grid-template-columns: 1fr 1fr;
+  grid-gap: 30px;
 }
 
 @media (max-width: 700px) {
@@ -21,5 +21,5 @@
   font-family: 'IBM Plex Mono', monospace;
   font-weight: bold;
   font-size: 1.5rem;
-  color: #e54;
+  color: #E54;
 }
