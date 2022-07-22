@@ -70,7 +70,6 @@ function initAnimacaoScroll() {
 
   if (sections.length) {
     const janelaUmQuarto = window.innerHeight * 0.7;
-    console.log(janelaUmQuarto);
 
     function animaScroll() {
       sections.forEach((section) => {
