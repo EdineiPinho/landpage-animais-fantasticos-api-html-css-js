@@ -2,7 +2,7 @@
 Uma página completa com intuíto de aprofundar meus conhecimentos a certa de **JavaScript**
 Também tem bastante de:
 - HTML
-- CSS
+- CSS (Responsividade)
 
 Usei as tecnologias:
 - WEBPACK
