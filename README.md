@@ -1,5 +1,5 @@
 # AnimaisFantasticos
-Uma página completa com intuíto de aprofundar meus conhecimentos a certa de **JavaScript**
+Uma página completa com intuíto de aprofundar meus conhecimentos a cerca de **JAVASCRIPT**
 Também tem bastante de:
 - HTML
 - CSS (Responsividade)
